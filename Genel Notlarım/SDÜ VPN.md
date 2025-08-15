@@ -1,0 +1,10 @@
+![[sdü vpn.png]]
+
+![[Sdü Bilgilerim.txt]]
+
+```css
+Murat.12345.
+l2111012043@ogr.sdu.edu.tr
+```
+
+

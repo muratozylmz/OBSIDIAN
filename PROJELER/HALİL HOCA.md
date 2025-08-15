@@ -1,0 +1,26 @@
+# YKS ROBOT OLAYI 
+### GEREKSİNİMLER ŞU ŞEKİLDE: 
+- #### 1- LOGO
+	- Kendimize özgü bir logo yapmamız gerekiyor.
+- #### 2- TÜM ÜNİVERSİTE ANALİZLERİ
+	- Bu noktada hangi şehirde kaç tane özel kaç tane devlet üni var sayıları... ÜNİVERSİTE KONUMLARI şehre uzaklığı vs.
+- #### 3- Yurtlar/ Yurt Fiyatları
+	- Özel ve devlet yurtları, konumları(fakülte içi dışı) eklenecek
+- #### 4- ULAŞIM
+	- Yurtlardan direkt olarak üniye otobüs var mı? Güzergahlar okula gidiş süresi...
+- #### 5- APARTLAR 
+	- Bu noktada Kız Apartları falan listelenecek. Kız apartlarına erkekler giremez 👌
+- #### 6- ÜNİVERSİTE BÖLÜMLERİ
+	- Hangi ünide hangi bölüm var YÖK ATLAS'dan çekeceğiz.
+- #### 7- LABARATUAR-DENEY İMKANLARI
+	- Bu noktaya da önem göstermemiz gerekiyor.
+- #### 8- AKADEMİSYENLER
+	- Hangi bölümde kaç hoca var ve hangi derslere giriyorlar.
+- #### 9- FAKÜLTELERİN GEÇMİŞİ
+	- Hangi fakülte kaç yıllık gibi
+- #### 10- BÖLÜMLERİN DERS İÇERİKLERİ
+	- Yaz okulu noktasında önemli bir bilgi..
+- #### 11- PROJEDE ÇIKTI PDF ALINABİLECEK
+	- EN ÖNEMLİ OLAY BU OLMALIDIR!!!
+- #### 12- ÖĞRENCİ SINAV SONUÇLARI İÇİN 
+	- Bu noktada da belgelerini yükleyebilirler. Bu belgenin içini okuma işi yapılabilir.

@@ -1,0 +1,2 @@
+- https://www.gaissecurity.com/blog/microsoft-teams-cross-site-scripting-xss-bypass-csp-report
+- 

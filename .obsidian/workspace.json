@@ -1,0 +1,1557 @@
+{
+  "main": {
+    "id": "147c4b2c3e3c82d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "102a70b6d1a850a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6ff9b3187a39a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genel Notlarım/WİFİ İŞLERİ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WİFİ İŞLERİ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19c815ff9c6fb40d",
+    "type": "split",
+    "children": [
+      {
+        "id": "59351e19bcf2e427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95e8b792dfc70abd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "4986252a64aa8e75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "844db8ad8f5b8974",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93299f1b0a8e72e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "beac38be9c893eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2665b67843ca204b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Genel Notlarım/Github Komutları.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Github Komutları için geri bağlantılar"
+            }
+          },
+          {
+            "id": "b10c1b65c9bc5e46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Genel Notlarım/Github Komutları.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Github Komutları'dan giden bağlantılar"
+            }
+          },
+          {
+            "id": "26c66e611cf8a8e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "1b53c7c52e1718b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Genel Notlarım/Github Komutları.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Github Komutları ana hatları"
+            }
+          },
+          {
+            "id": "c51baadb6b0ed3fa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fd87b88e5e9a55cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "b0fecac4ec000d12",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "5a03c52084165937",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "337f5acfadabb7a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "d66fe5ea033a2015",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "4f81140b9c5d50a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "ac6cc7e384d0eb14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f14b76d234d7a2b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "b73f1e3d8d35f420",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "fe7efb4de06f3414",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "d5ccf35f1d2cf93d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "2b299ebf7c69bcaa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "5be9452a543dcbb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "4043b13b12468f37",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "a398e73cd057b11f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f2c6495e0277ef88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "e42d4699dfb406a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "2396bb966125153a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "3f6ef0e468b4b9a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "e718cdbf79c5ad63",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "4cf415b975313bf3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "45a2aa8299ca8148",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "3decf7c3585f7c4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "e0ca305b6f017b20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "9d51c8b9d885c62e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "47cca9df46cabd51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f41fa603442a49fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "7ae89239ff3abab4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "c460df6314c99539",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "d06202f29ed7b428",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "79ee666ca84d170e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "d33db411c1423a9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "cfba06c55c85e271",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "5a16d7ee3130d9b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "d45170f980c9fcfb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "1e3bc7495cbb9bd5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "728db83ba7e4f8d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "b8badbcedce04b16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "b18219e9877f1010",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "574b530fa86e37d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "bc3239845fec3c66",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "7e81000f5b06a63f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "2a70f24695a50baf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f6ca0447edbb3738",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "91628ea225678ccf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "600bf14b9edbeb41",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "77862298ead85242",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "2feb518f43a4535e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "99c5cad6cdb086a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "4e69445ed259768d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "76964af68269ac03",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "bf4a69e3c759b643",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "20901a2191588a35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "795892b2495c9d50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "d11f6f7d8ed052a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "dc2458de83518670",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "5a606498f3d60ad8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f1054cdf88662e69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "55bdb97080af8474",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "5f47f2520dc1477a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "302179ab765c6132",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "0d9687f38818ecd0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "62de9c3ace14f959",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "ec71dfdc84b9905d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "7fed31422c7faac7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "c42657dfc638ee30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f41af149e15be8b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "c5f3e21cda229986",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "c48965a08ac30561",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "c68e66d3dc6137f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "72c37bd2294c45d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "382d542abaa152a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "b603d2eb5ca7829d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "1600938136fc65e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "83932e6018ab2f26",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "39e99dc25db4607d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "375ad201531ada71",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "0a2e7f0b103b6fb2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "c5987f8c20dc3e80",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f9714b5aeb67a8fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "5ee2087d2ebe8968",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "755e3bd0035d6156",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "bbb25d223d27fb37",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "1d9939a0cc770aff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "4c3a247783b111be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "df247bc5ec335d09",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "a9bb2579d5326f11",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "83156dd64cd95e44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "ed565db982494eeb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "d8a2199ea984339e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "caf7eb1ef46612a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "890c1effb4f9ae04",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "9bf2b3b669918c41",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "c5f009708740fe13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f3fd79b558640373",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f1000562e8a6cc7d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "7da3d31b9365f78b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "85ccc669164ef1d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "8add08cd049eaaca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "e6b2b1ab797d88bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "1ea8ec9cc136ad4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "82717b9153db7dca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "17ccc3b6fe3b6091",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "8e0945a0dcc9db6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "7550b671a3057e75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f22d928c9f0e0ec9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "7492108dfc23c529",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "c6f7eca9264aa561",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "d94695f9a5efaf95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "2cc11427f4d65a49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "761f7dd5a9308fea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "5ad4e2d11b1cef36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "6df4de8f6df5cbff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "1fbc7a63eb7e8ada",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f6b03316779982d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "8afdbff189c0a3ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "a960c069f064cddc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "0e3a473ccc877c69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "968706a3b2c2b401",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "2f173e2380a0dc4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "3472419f17fa4498",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "00d7168fbbbe1d2f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "43e1fff9498ad531",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "6efedbddcd3fb8fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "79ff1165bc91f3cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "5404b24011fc2d48",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "1bcee9eb939a5ea4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "00c55f689ba3444d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "bc69bdb401c42a4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "f3ae553ddc9ccbdc",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "a54cf4a5a861aa8e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "dc4e575851eb24de",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          }
+        ],
+        "currentTab": 135
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e6ff9b3187a39a2d",
+  "lastOpenFiles": [
+    "TELEFON SİTESİ/BAZI BİLGİLER.md",
+    "z_Yüklenen_Resimler/Pasted image 20250812020639.png",
+    "z_Yüklenen_Resimler/Pasted image 20250812020622.png",
+    "Başlıksız 1.md",
+    "Genel Notlarım/WİFİ İŞLERİ.md",
+    "TELEFON SİTESİ",
+    "Genel Notlarım/Burp Suite Kurulumu.md",
+    "Genel Notlarım/Bazı Kişiler ve Numaraları.md",
+    "Genel Notlarım/â.md",
+    "Genel Notlarım/~.md",
+    "PROJELER/HALİL HOCA.md",
+    "Genel Notlarım/CURSOR CHAT AÇMA.md",
+    "Genel Notlarım/STEGANOGRAFİ.md",
+    "Genel Notlarım/SDÜ VPN.md",
+    "Genel Notlarım/QR KOD OLUŞTURUCU.md",
+    "Genel Notlarım/PAYLOAD FOR INTRUDER.md",
+    "Genel Notlarım/Linux sürekli Türkçe klavye.md",
+    "Genel Notlarım/Foto Link İle IP Bulma.md",
+    "ASP .NET CORE/0-Genel.md",
+    "DENEME",
+    "BAŞLANGIÇ/Obsidian notlarım.md",
+    "BAŞLANGIÇ/Obsidian Kısayolları.md",
+    "SİBERVATAN/Buna Bak dediler.md",
+    "BUG BOUNTY REHBERİ.md",
+    "PDA DANIŞMANLIK/PDA DANIŞMANLIK BİLGİLER.md",
+    "z_Yüklenen_Resimler/LOGO.jpg",
+    "PDA DANIŞMANLIK",
+    "z_Yüklenen_Resimler/Pasted image 20250526133636.png",
+    "z_Yüklenen_Resimler/Pasted image 20250526133619.png",
+    "z_Yüklenen_Resimler/Pasted image 20250526133612.png",
+    "z_Yüklenen_Resimler/Pasted image 20250526133605.png",
+    "BİTİRME PROJESİ/Gereksinimler Listesi.md",
+    "Genel Notlarım/SOFT DEFEND.md",
+    "Genel Notlarım/İDM Trial Kodları.md",
+    "Genel Notlarım/Github Komutları.md",
+    "z_Yüklenen_Resimler/Pasted image 20250430113539.png",
+    "z_Yüklenen_Resimler/Pasted image 20250430113310.png",
+    "z_Yüklenen_Resimler/Pasted image 20250430113138.png",
+    "z_Yüklenen_Resimler/Sdü Bilgilerim.txt",
+    "PROJELER",
+    "ABLA PAYOONER",
+    "BİTİRME PROJESİ",
+    "CYBERSECURITY",
+    "SİBERVATAN",
+    "Excalidraw",
+    "Başlıksız 1.canvas",
+    "Başlıksız.canvas"
+  ]
+}
