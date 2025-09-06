@@ -1,4 +1,0 @@
-zxcmklzmxcz
-xcolzxmczx
-cmzxpcmz
-xc
